@@ -1,0 +1,31 @@
+Date,Sales Rep,Region,Revenue,Units Sold,Price per Unit,Customer
+7-Jan-23,Chris Evans,North,"$5,000 ",100,$50 ,Amazon
+15-Jan-23,nancy Wilson,South,"$3,200 ",64,$50 ,Yahoo
+2-Feb-23,Emily Johnson,East,"$6,750 ",135,$50 ,eBay
+21-Feb-23,Mike Brown,West,"$4,000 ",80,$50 ,Walmart
+3-Mar-23,Sarah Wilson,North,"$2,800 ",56,$50 ,Target
+17-Mar-23,Tom Clark,South,"$6,100 ",122,$50 ,Best Buy
+5-Apr-23,nancy Wilson,East,"$8,400 ",168,$50 ,Shopify
+19-Apr-23,Mark Taylor,West,"$3,700 ",74,$50 ,Etsy
+11-May-23,Chris Evans,North,"$4,500 ",90,$50 ,Netflix
+27-May-23,Karen Miller,South,"$5,800 ",116,$50 ,Hulu
+6-Jun-23,Mike Brown,East,"$7,200 ",144,$50 ,Adobe
+24-Jun-23,Sarah Wilson,West,"$2,500 ",50,$50 ,Microsoft
+10-Jul-23,Tom Clark,North,"$3,900 ",78,$50 ,Apple
+22-Jul-23,nancy Wilson,South,"$4,600 ",92,$50 ,Amazon
+4-Aug-23,Mark Taylor,East,"$6,300 ",126,$50 ,Yahoo
+16-Aug-23,Chris Evans,West,"$5,500 ",110,$50 ,eBay
+8-Sep-23,Karen Miller,North,"$4,000 ",80,$50 ,Walmart
+19-Sep-23,John Smith,South,"$6,200 ",124,$50 ,Target
+1-Oct-23,Jane Doe,East,"$3,000 ",60,$50 ,Best Buy
+14-Oct-23,Emily Johnson,West,"$8,800 ",176,$50 ,Shopify
+3-Nov-23,Chris Evans,North,"$3,600 ",72,$50 ,Etsy
+18-Nov-23,Jane Doe,South,"$7,100 ",142,$50 ,Netflix
+2-Dec-23,Emily Johnson,East,"$2,400 ",48,$50 ,Hulu
+15-Dec-23,Mike Brown,West,"$5,900 ",118,$50 ,Adobe
+22-Dec-23,Sarah Wilson,North,"$4,300 ",86,$50 ,Microsoft
+1-Jan-23,Tom Clark,South,"$6,700 ",134,$50 ,Apple
+14-Feb-23,nancy Wilson,East,"$3,800 ",76,$50 ,Amazon
+30-Mar-23,Mark Taylor,West,"$2,900 ",58,$50 ,Yahoo
+12-Apr-23,Chris Evans,North,"$5,300 ",106,$50 ,eBay
+25-May-23,Karen Miller,South,"$4,700 ",94,$50 ,Walmart
